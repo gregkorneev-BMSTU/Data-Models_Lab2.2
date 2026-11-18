@@ -1,0 +1,30 @@
+[
+    {
+        "teacher_id": 1,
+        "surname": "Иванов",
+        "first_name": "Иван",
+        "patronymic": "Иванович",
+        "position": "Доцент"
+    },
+    {
+        "teacher_id": 101,
+        "surname": "Иванов",
+        "first_name": "Алексей",
+        "patronymic": "Петрович",
+        "position": "доцент"
+    },
+    {
+        "teacher_id": 102,
+        "surname": "Смирнова",
+        "first_name": "Елена",
+        "patronymic": "Сергеевна",
+        "position": "старший преподаватель"
+    },
+    {
+        "teacher_id": 103,
+        "surname": "Кузнецов",
+        "first_name": "Дмитрий",
+        "patronymic": "Викторович",
+        "position": "профессор"
+    }
+]
